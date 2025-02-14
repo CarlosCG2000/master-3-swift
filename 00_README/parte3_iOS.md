@@ -1,6 +1,6 @@
 # APLICACIONES iOS - SERGIO PADRINO - `UIKIT`
 
-# CLASE 9 (1) - (12/02/25)
+# CLASE 9 (1) - (`12/02/25`)
 
 # ÍNDICE
 ## 0. Aclaración - `Auto Layout` para `UIKit` | `View Modifiers` para `SwiftUI`
@@ -8,7 +8,8 @@
 ### 1.1. Constraints
 #### 1.2. Usar `Interface Builder`
 #### 1.3. `Content Hugging Priority`
-#### 1.4. Ejemplos prácticos en XCode
+#### 1.4. `PDFs` vistos
+#### 1.5. `Ejemplos` prácticos en XCode
 
 ## 0. Aclaración - `Auto Layout` para `UIKit` | `View Modifiers` para `SwiftUI`
 El `Auto Layout` con `Constraints` pertenece a `UIKit` y `no` a `SwiftUI`.
@@ -61,7 +62,11 @@ Se mostrará un menú con los distintos tipos de constraints que podemos crear.
 A `1` Si se comprima (seguramente), que ocupe lo maximo posible
 A `1000` No se comprima (seguramente), que ocupe lo minimo posible
 
-#### 1.4. Ejemplos prácticos en XCode
+#### 1.4. `PDFs` vistos
+Desde PDF: `1. Auto Layout.pdf` por principio
+Hasta PDF: `1. Auto Layout.pdf` por pag 48
+
+#### 1.5. `Ejemplos` prácticos en Xcode
 1. (MIN 0:45:3O - 1:07:00) `AutoLayoutBasico`. Poner en dimensiones las etiquetas tanto horizontal como verticalmente en el móvil respetando el orden y truncando las más grandes.
 
 2. (MIN 1:13:30 - 1:21:30) `AutoLayoutBasicoCodigo`.
@@ -72,5 +77,35 @@ A `1000` No se comprima (seguramente), que ocupe lo minimo posible
 
 5. (MIN 2:15:45 - 2:25:00) `AutoLayoutCustomViews`.
 
-# CLASE 10 (2) - (13/02/25)
+6. (MIN -  NO VISTO) `AutoLayoutScrollView`.
+
+# CLASE 10 (2) - (`13/02/25`)
+
+# ÍNDICE
+## 1. `PDFs` vistos
+## 2. `Ejemplos` prácticos en Xcode
+
+## 1. `PDFs` vistos
+Desde PDF: `1. Auto Layout.pdf` por pag 49
+PDF: `3. UITableView.pdf` finalizado
+Hasta PDF: `4. UICollectionView.pdf` finalizado
+
+## 2. `Ejemplos` prácticos en Xcode
+1. (MIN 1:03:08 - 1:24:00) `EjemploTableView`
+
+2. (MIN 1:52:20 - 2:14:45) `EjemploCollectionView`
+
+# CLASE 11 (3) - (`19/02/25`)
+
+# ÍNDICE
+## 1. `PDFs` vistos
+## 2. `Ejemplos` prácticos en Xcode
+
+## 1. `PDFs` vistos
+Desde PDF: `5. Core Data.pdf` por principio
+...
+
+## 2. `Ejemplos` prácticos en Xcode
+1. (MIN x:xx:xx - x:xx:xx) `xxx`
+...
 
