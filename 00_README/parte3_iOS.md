@@ -103,9 +103,24 @@ Hasta PDF: `4. UICollectionView.pdf` finalizado
 
 ## 1. `PDFs` vistos
 Desde PDF: `5. Core Data.pdf` por principio
-...
+Hasta PDF: `5. Core Data.pdf` por pag 29
 
 ## 2. `Ejemplos` prácticos en Xcode
-1. (MIN x:xx:xx - x:xx:xx) `xxx`
-...
+1. (MIN x:xx:xx - x:xx:xx) `MiFavouriteSongs` - HORA 19:41 HASTA 20:00
+2. (MIN x:xx:xx - x:xx:xx) `Bow Ties` - HORA 20:05 HASTA 20:30
+3. (MIN x:xx:xx - x:xx:xx) `Dog Walk` - HORA 20:31 HASTA 20:49
+4. (MIN x:xx:xx - x:xx:xx) `Worl Cup` - HORA 20:51 HASTA 20:56
 
+# CLASE 12 (4) - (`26/02/25`)
+
+# ÍNDICE
+## 1. `PDFs` vistos
+## 2. `Ejemplos` prácticos en Xcode
+
+## 1. `PDFs` vistos
+Desde PDF: 
+PDF: 
+Hasta PDF: 
+
+## 2. `Ejemplos` prácticos en Xcode
+1. (MIN x:xx:xx - x:xx:xx) `` 
