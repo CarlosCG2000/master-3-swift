@@ -68,15 +68,10 @@ Hasta PDF: `1. Auto Layout.pdf` por pag 48
 
 #### 1.5. `Ejemplos` prácticos en Xcode
 1. (MIN 0:45:3O - 1:07:00) `AutoLayoutBasico`. Poner en dimensiones las etiquetas tanto horizontal como verticalmente en el móvil respetando el orden y truncando las más grandes.
-
 2. (MIN 1:13:30 - 1:21:30) `AutoLayoutBasicoCodigo`.
-
 3. (MIN 1:28:50 - 1:42:50) `AutoLayoutAnimaciones`.
-
 4. (MIN 1:52:15 - 2:08:50) `AutoLayoutCustomViews`.
-
 5. (MIN 2:15:45 - 2:25:00) `AutoLayoutCustomViews`.
-
 6. (MIN -  NO VISTO) `AutoLayoutScrollView`.
 
 # CLASE 10 (2) - (`13/02/25`)
@@ -92,7 +87,6 @@ Hasta PDF: `4. UICollectionView.pdf` finalizado
 
 ## 2. `Ejemplos` prácticos en Xcode
 1. (MIN 1:03:08 - 1:24:00) `EjemploTableView`
-
 2. (MIN 1:52:20 - 2:14:45) `EjemploCollectionView`
 
 # CLASE 11 (3) - (`19/02/25`)
@@ -106,10 +100,10 @@ Desde PDF: `5. Core Data.pdf` por principio
 Hasta PDF: `5. Core Data.pdf` por pag 29
 
 ## 2. `Ejemplos` prácticos en Xcode
-1. (MIN x:xx:xx - x:xx:xx) `MiFavouriteSongs` - HORA 19:41 HASTA 20:00
-2. (MIN x:xx:xx - x:xx:xx) `Bow Ties` - HORA 20:05 HASTA 20:30
-3. (MIN x:xx:xx - x:xx:xx) `Dog Walk` - HORA 20:31 HASTA 20:49
-4. (MIN x:xx:xx - x:xx:xx) `Worl Cup` - HORA 20:51 HASTA 20:56
+1. (MIN 0:37:00 - 00:57:00) `MiFavouriteSongs`
+2. (MIN 1:03:00 - 1:26:30) `Bow Ties`
+3. (MIN 1:27:00 - 1:45:25) `Dog Walk`
+4. (MIN 1:48:20 - 1:53:00) `Worl Cup`
 
 # CLASE 12 (4) - (`26/02/25`)
 
